@@ -1,2 +1,7 @@
-# SaaS-level-FlaskApp
-Not my Project idea but following a SaaS App code for Flask
+## Concepts Covered:
+- config
+- blueprint
+- testing
+- CLI script
+- Payments
+- Data Migrations
